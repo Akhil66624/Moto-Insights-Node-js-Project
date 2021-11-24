@@ -27,6 +27,39 @@
   margin-left: var(--dl-space-space-twounits);
   text-decoration: none;
 }
+.form-inline{
+  top: 30px;
+  flex: 3;
+  right: 600px;
+  width: 400px;
+  height: 100px;
+  
+ 
+  margin: auto;
+  display: flex;
+  position: absolute;
+  align-items: center;
+  flex-direction: row;
+}
+.form-control{
+  border-radius: 40px;
+  border: 4px solid black;
+  font-size: 28px;
+  
+  size: 32px;
+  float: left;
+  width: 120%;
+  
+}
+.btn{
+  border-radius: 40px;
+  border: solid white;
+  size: 40px;
+  font-size: 24px;
+  color: white;
+  cursor: pointer;
+  background-color: black;
+}
 .rootClassName {
   flex: 1;
   right: 0px;
