@@ -27,7 +27,7 @@
   margin-left: var(--dl-space-space-twounits);
   text-decoration: none;
 }
-.form-inline{
+/* .form-inline{
   top: 30px;
   flex: 3;
   right: 600px;
@@ -59,7 +59,7 @@
   color: white;
   cursor: pointer;
   background-color: black;
-}
+} */
 .rootClassName {
   flex: 1;
   right: 0px;
