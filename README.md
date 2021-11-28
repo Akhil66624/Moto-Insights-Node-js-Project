@@ -1,5 +1,5 @@
 # Moto-Insights-Node-js-Project
-#Instructions
+Instructions
 
-#First
-#1.Install all dependencies using npm install
+First
+1.Install all dependencies using npm install
