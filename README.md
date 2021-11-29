@@ -1,4 +1,14 @@
-# Moto-Insights-Node-js-Project
+# Moto-Insights-Node-js-Project<br /><br />
+1 Introduction(Moto Insights):<br/>
+The main idea of this project is to bring all the specifications and other<br/>
+details of cars to a single platform which ensures the ease of purchasing<br/>
+of the car. Here we gather all the information of a particular car in a formal<br/>
+way that simplifies the discovering the right car for a user.<br/><br/>
+2 Why Moto Insights:<br/>
+Here everything is well addressed in detail with the right and accurate<br/>
+information which really helps in making a quick and easy decision<br/>
+while buying a car.<br/><br/><br/>
+
 Instructions
 
 
